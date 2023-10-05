@@ -2,12 +2,9 @@
 title: Awesome kitties
 date: 2019-03-17T19:31:20.591Z
 cats:
-  - description: Maru is a Scottish Fold from Japan, and he loves boxes.
-    name: Maru (まる)
   - description: Lil Bub is an American celebrity cat known for her unique appearance.
     name: Lil Bub
-  - name: Mariah Carey
-    description: All i want for christmas is you!!!
+    image: img/whatsapp-image-2023-10-04-at-22.06.05.jpeg
 ---
 
 Welcome to my awesome page about cats of the internet.
